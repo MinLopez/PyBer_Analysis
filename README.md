@@ -21,7 +21,7 @@ The last item calculated was average fare per driver. For rural a driver brought
 
 **For the second section I plotted week over week of total fare per city type as seen below**
 
-![analysis/PyBer_fare_summary](analysis/PyBer_fare_summary) 
+![analysis/PyBer_fare_summary.png](analysis/PyBer_fare_summary.png) 
 
 Overall, urban brings in more in total fare week over week when compared to suburban and rural. There was a peak just before March for all three cities, and then a dip right after that peak. 
 Urban cities started off lower in total fare in Janary and then began oscilating between peaks and valleys week over week just around March where it steadied around April. Suburban experienced steadier increases and decreases. Similar to urban, suburban started off with a lower total fare in January but did reach simlar quantities in March and the beginning of April before increasing. For rural, the total fare was not lower than the week after like it was for the other two city types. It actually dropped after instead of increasing the second week. Similar to urban, there were peaks and valleys oscilating week over week but the oscilation between the two were much less than in urban. There were peaks in February, just before March, and at the beginning of April.
